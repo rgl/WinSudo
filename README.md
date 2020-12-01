@@ -1,4 +1,7 @@
 # WinSudo
+
+[![Build status](https://github.com/rgl/WinSudo/workflows/Build/badge.svg)](https://github.com/rgl/WinSudo/actions?query=workflow%3ABuild)
+
 Execute commands as local system.</br>
 以本地系统上下文执行命令.
 
